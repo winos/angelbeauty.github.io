@@ -311,7 +311,7 @@ button {
 
 .head_top {
      /* background-color: red; */
-     background: url("https://escueladebellezamariela.edu.co/wp-content/uploads/2019/02/banner-blog.png");/*url(../images/banner.jpg);*/
+     background: url("../images/banner.png");/*url(../images/banner.jpg);*/
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-top: 60px;
