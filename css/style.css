@@ -520,14 +520,14 @@ button {
 }
 
 .Our_box i {
-     border: whitesmoke solid 2px;
+     border: rgb(245, 245, 245) solid 1px;
      width: 160px;
      height: 160px;
      display: flex;
      align-items: center;
      justify-content: center;
      margin: 0 auto;
-     border-radius: 15px;
+     border-radius: 45% 30%;
      transition: ease-in all 0.1s;
      cursor: pointer;
 }
