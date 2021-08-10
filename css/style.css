@@ -336,6 +336,10 @@ button {
      /* width: 100px; */
 }
 
+.bradius {
+     border-radius: 50%;
+}
+
 .banner_main {
      padding: 90px 0;
 }
